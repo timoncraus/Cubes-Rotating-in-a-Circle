@@ -5,5 +5,9 @@
 - The white cubes can stay anywhere.
 - The program recognizes when the cubes are in the correct positions.
 
+https://github.com/user-attachments/assets/d5820a8e-7123-4c45-815e-a2540d25c1c0
 
-https://github.com/user-attachments/assets/97798e3c-fb15-4686-9944-fc5c30c7e239
+An earlier version:
+
+https://github.com/user-attachments/assets/1e0d88d7-1ac3-4e18-a1ff-2da16e47cba6
+
